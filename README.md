@@ -1,8 +1,9 @@
 This repository is for the replication of our paper [An ADMM-Based Approach to Solve Mixed-Integer Nonlinear Volt/Var Optimization Problems in Distribution Systems](https://Link)
 
 
-# Runing Requirements
-To run all the code succeesfully you need to have MATLAB, YALMIP, IPOPT, CVX and Matpower for comparison and verification.
+# Testing Requirements
+To run all the codes succeesfully you need to have YALMIP, IPOPT and CVX.
+You also needs to have Matpower to run internal comparison and verification tests.
 
 
 # Citation is required
