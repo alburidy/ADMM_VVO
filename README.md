@@ -1,4 +1,4 @@
-This repository is for the replication of our paper [An ADMM-Based Approach to Solve Mixed-Integer Nonlinear Volt/Var Optimization Problems in Distribution Systems](https://Link)
+This repository is for the replication of our paper [An ADMM-Based Approach to Solve Mixed-Integer Nonlinear Volt/Var Optimization Problems in Distribution Systems](https://onlinelibrary.wiley.com/doi/abs/10.1002/2050-7038.12795)
 
 
 # Testing Requirements
